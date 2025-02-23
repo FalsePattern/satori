@@ -1,0 +1,17 @@
+.{
+    .name = "satori",
+    .version = "0.1.0",
+    .dependencies = .{
+        .koishi = .{
+            .url = "git+https://github.com/FalsePattern/koishi/?ref=master#e52c5758750978cb0de9660b4f131aa26137ed15",
+            .hash = "12204aa2e7ababb0cab2158f23c2c2c23ecbecea9b79d9784e80af1fa535701e87dc",
+        },
+    },
+    .minimum_zig_version = "0.14.0-dev.3286+05d8b565a",
+    .paths = .{
+        "src",
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+    },
+}
