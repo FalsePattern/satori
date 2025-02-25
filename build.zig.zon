@@ -3,8 +3,8 @@
     .version = "0.1.0",
     .dependencies = .{
         .koishi = .{
-            .url = "git+https://github.com/FalsePattern/koishi/?ref=master#e52c5758750978cb0de9660b4f131aa26137ed15",
-            .hash = "12204aa2e7ababb0cab2158f23c2c2c23ecbecea9b79d9784e80af1fa535701e87dc",
+            .url = "git+https://github.com/FalsePattern/koishi/?ref=master#b58dc84143df604479d9e256fff0f4f60418f044",
+            .hash = "12207e1b64f0ea8b2a116cced4d0092f0ad80f48431856abd1caba1b2d1b63b5d1ac",
         },
     },
     .minimum_zig_version = "0.14.0-dev.3286+05d8b565a",
