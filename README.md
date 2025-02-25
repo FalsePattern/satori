@@ -22,6 +22,8 @@ your_module.addImport("satori", satori_dep.module("satori"));
 
 This will provide satori as an importable module to `your_module`, and links it against koishi.
 
+The module source code itself contains plenty of documentation, and you can also check test.zig for a few examples. 
+
 ## Additional options
 
 ```
